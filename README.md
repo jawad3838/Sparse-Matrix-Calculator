@@ -3,6 +3,9 @@ A calculator developed for mathematical operations on Sparse matrices using C++
 
 A Sparse matrix is a matrix in which most of the elements are zero. Mathematical operations using sparse matrices take up a lot of memory in computers if we cater for all the zeros in the matrix. Using techniques learned from OOP and Data structures, this calculator was developed to perform mathematical operations on sparse matrices using minimum amount of memory.
 
+## Instructions
+You only have to enter the non-zero values in the matrix. Index of rows and columns start at 0 and you have to enter -1 as a value at any position after entering all non-zero values.
+
 ## Matrix Operations Implemented
 The following mathematical operations have been implemented for this calculator:
 * Addition
